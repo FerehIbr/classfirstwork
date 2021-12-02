@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\classfirsthw\classfirstwork\classfirstwork\bin\Debug\netcoreapp3.1\classfirstwork.exe
+C:\Users\user\Desktop\classfirsthw\classfirstwork\classfirstwork\bin\Debug\netcoreapp3.1\classfirstwork.deps.json
+C:\Users\user\Desktop\classfirsthw\classfirstwork\classfirstwork\bin\Debug\netcoreapp3.1\classfirstwork.runtimeconfig.json
+C:\Users\user\Desktop\classfirsthw\classfirstwork\classfirstwork\bin\Debug\netcoreapp3.1\classfirstwork.runtimeconfig.dev.json
+C:\Users\user\Desktop\classfirsthw\classfirstwork\classfirstwork\bin\Debug\netcoreapp3.1\classfirstwork.dll
+C:\Users\user\Desktop\classfirsthw\classfirstwork\classfirstwork\bin\Debug\netcoreapp3.1\classfirstwork.pdb
+C:\Users\user\Desktop\classfirsthw\classfirstwork\classfirstwork\obj\Debug\netcoreapp3.1\classfirstwork.csprojAssemblyReference.cache
+C:\Users\user\Desktop\classfirsthw\classfirstwork\classfirstwork\obj\Debug\netcoreapp3.1\classfirstwork.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\classfirsthw\classfirstwork\classfirstwork\obj\Debug\netcoreapp3.1\classfirstwork.AssemblyInfo.cs
+C:\Users\user\Desktop\classfirsthw\classfirstwork\classfirstwork\obj\Debug\netcoreapp3.1\classfirstwork.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\classfirsthw\classfirstwork\classfirstwork\obj\Debug\netcoreapp3.1\classfirstwork.dll
+C:\Users\user\Desktop\classfirsthw\classfirstwork\classfirstwork\obj\Debug\netcoreapp3.1\classfirstwork.pdb
+C:\Users\user\Desktop\classfirsthw\classfirstwork\classfirstwork\obj\Debug\netcoreapp3.1\classfirstwork.genruntimeconfig.cache
